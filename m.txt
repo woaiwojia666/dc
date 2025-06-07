@@ -77,7 +77,7 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
     },
 {"key":"央视","name":"🇨🇳央视","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/央视片库.js"},
-{"key":"直播","name":"🇨🇳直播","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"},
+{"key":"直播","name":"直播好趣网","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"},
 {"key":"巧技","name":"💡巧巧｜影视","type":3,"api":"csp_qiao2","playerType":2,"ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"},
 {"key":"蝴蝶","name":"💡蝴蝶｜影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},

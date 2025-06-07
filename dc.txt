@@ -1,7 +1,7 @@
 ﻿{
   "urls": [
     {
-      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/dc/blob/main/dc.txt",
+      "url": "https://gh-proxy.com/https://github.com/woaiwojia666/dc/blob/main/m.txt",
       "name": "我的小宝"
     },
     {
