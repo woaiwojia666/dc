@@ -5,7 +5,7 @@
 "warningText":"我的小宝",
   "lives": [
     {"name": "直播","type": 0,"playerType": 1,
-    "url": "clan://localhost/tvbox/zb1.txt",
+    "url": "https://gh-proxy.com/https://github.com/woaiwojia666/dc/blob/main/dc.txt",
     "ua": "okhttp/3.15",
     "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
     "logo": "https://epg.112114.xyz/logo/{name}.png"}],
